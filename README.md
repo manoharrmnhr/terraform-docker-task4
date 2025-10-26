@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# terraform-docker-task4
-terraform-docker-task4
-=======
+
 # 🧩 TASK 3: Infrastructure as Code (IaC) with Terraform
 
 ## 🎯 Objective
@@ -35,4 +32,4 @@ In this task, Terraform is used to automatically deploy a Docker container on th
   ```bash
   terraform -version
   docker --version
->>>>>>> f3880d7 (terraform-docker-task3 setup)
+
